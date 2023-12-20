@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/API Gateway/API-Gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/API Gateway/API-Gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Config server/Config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Config server/Config-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HotelService/HotelService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HotelService/HotelService/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/RatingService/RatingService/src/main/java" charset="UTF-8" />
